@@ -12,4 +12,5 @@
 
 ## Personalization
 Temperature monitoring of the zabbix server
-https://myopsblog.wordpress.com/2016/06/06/cpu-temperature-monitoring-with-zabbix/
+
+- https://myopsblog.wordpress.com/2016/06/06/cpu-temperature-monitoring-with-zabbix/
