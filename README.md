@@ -42,5 +42,4 @@ The server is running a Ubuntu Minimal in your core, with o Docker for virtualiz
       <td width="50%">
         <img src="https://img.shields.io/badge/Portainer-White?style=for-the-badge&logo=Portainer&logoColor=White&labelColor=23FA3320&color=%2320D2FA" alt="Portainer">
         <img src="https://img.shields.io/badge/Grafana-White?style=for-the-badge&logo=Grafana&logoColor=White&labelColor=23FA3320&color=white" alt="Grafana">
-        <img src="https://img.shields.io/badge/Adguard-White?style=for-the-badge&logo=Adguard&logoColor=White&labelColor=23FA3320&color=white" alt="Adguard">
          </td>
