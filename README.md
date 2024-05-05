@@ -40,8 +40,10 @@ The server is running a Ubuntu Minimal in your core, with o Docker for virtualiz
   <tbody>
     <tr>
       <td width="50%">
-        <img src="https://img.shields.io/badge/Portainer-White?style=for-the-badge&logo=Portainer&logoColor=%F0F0EF%&labelColor=23FA3320&color=%233094F9" alt="Portainer">
+        <img src="https://img.shields.io/badge/Portainer-build?style=for-the-badge&logo=Portainer&color=%23FFFFFF" alt="Portainer">
         <img src="https://img.shields.io/badge/Grafana-White?style=for-the-badge&logo=Grafana&logoColor=White&labelColor=23FA3320&color=white" alt="Grafana">
-        <img src="https://img.shields.io/badge/NextCloud-brightgreen?style=for-the-badge&logo=Nextcloud&logoColor=White&labelColor=%233094F9&color=%233094F9" alt="Nextcloud">
-        <img src="https://img.shields.io/badge/Zabbix-White?style=for-the-badge&logoColor=%23F0F0EF&label=%F0%9F%86%89&labelColor=%23F02926&color=%23F02926" alt="Zabbix">
+        <img src="https://img.shields.io/badge/Nextcloud-build?style=for-the-badge&logo=Nextcloud&logoColor=%232247FF&color=%23FFFFFF" alt="Nextcloud">
+        <br>
+        <img src="https://img.shields.io/badge/Uptime-build?style=for-the-badge&logo=Uptime-kuma&color=%23FFFFFF" alt="Uptime">
+        <img src="https://img.shields.io/badge/Prometheus-build?style=for-the-badge&logo=Prometheus&color=%23FFFFFF" alt="Prometheus">
          </td>
